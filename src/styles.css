@@ -1,0 +1,17 @@
+.flex-H {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.flex-H > h3 {
+  margin: 1rem;
+}
+
+.cart {
+  border-style: solid;
+  border-color: dodgerblue;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
